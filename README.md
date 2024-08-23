@@ -1,3 +1,15 @@
+# created using chatGPT
+# prompt used
+create a todo app using angular version 14
+
+then copy the code into respective files
+
+change prompt to update service file using signals
+
+replace the code with the new code generated
+
+then upgrade angular version to 15,16 and then to 17 using cli
+
 # Todo14
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
