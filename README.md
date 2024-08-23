@@ -9,6 +9,9 @@ change prompt to update service file using signals
 replace the code with the new code generated
 
 then upgrade angular version to 15,16 and then to 17 using cli
+ng update @angular/core@15 @angular/cli@15
+ng update @angular/core@16 @angular/cli@16
+ng update @angular/core@17 @angular/cli@17
 
 # Todo14
 
